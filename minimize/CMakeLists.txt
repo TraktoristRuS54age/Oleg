@@ -9,8 +9,8 @@ set(CMAKE_CXX_STANDARD 11)
 #добавление исходных файлов
 set(SOURCE_FILES
 	
-	minimize/minimize.cpp
-	minimize/minimize.h
+	minimize.cpp
+	minimize.h
 )
 
 #добавление исполняемого файла
